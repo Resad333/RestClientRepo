@@ -1,0 +1,19 @@
+{
+    "rest-client.environmentVariables": {
+        "$shared": {},
+        "loc": {
+            "baseUrl": "test.com/api/",
+            "version": "v1.0",
+            "client_id": "",
+            "username": "",
+            "password": ""
+        },
+        "dev": {
+            "baseUrl": "dev.com/api/",
+            "version": "v1.0",
+            "client_id": "",
+            "username": "",
+            "password": ""
+        }
+    }
+}
